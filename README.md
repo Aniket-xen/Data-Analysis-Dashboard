@@ -2,14 +2,14 @@
 ## Project Objective
 The V Store wants to create an annual sales report for 2024. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2024 & 2025.
 ## Questions (KPIs)
-•	Compare the sales and orders using single chart.
-•	Which month got the highest sales and orders?
-•	Who purchased more - Men or Women?
-•	What are different order status in 2024?
-•	List top 7 states contributing to the sales?
-•	Relation between age and gender based on number of orders.
-•	Which Channel is contributing maximum to the sales?
-•	Percentage of Total Orders delivered .
+-	Compare the sales and orders using single chart.
+-	Which month got the highest sales and orders?
+-	Who purchased more - Men or Women?
+-	What are different order status in 2024?
+-	List top 7 states contributing to the sales?
+-	Relation between age and gender based on number of orders.
+-	Which Channel is contributing maximum to the sales?
+-	Percentage of Total Orders delivered .
 ## Process
 •	Verify data for any missing values and anomalies, and sort out the same.
 •	Made sure data is consistent and clean with respect to data type, data format and values used.
