@@ -17,6 +17,9 @@ The V Store wants to create an annual sales report for 2024. So that, the owner 
 -	Made sure data is consistent and clean with respect to data type, data format and values used.
 -	Created pivot tables according to the questions asked.
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+![Screenshot DashBoard](https://github.com/user-attachments/assets/95102e3e-2996-4070-b25c-51d04010e2c1)
+
 ## Project Insight
 -	Women customers are more likely to buy products compared to men (~65%).
 -	The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
