@@ -10,6 +10,8 @@ The V Store wants to create an annual sales report for 2024. So that, the owner 
 -	Relation between age and gender based on number of orders.
 -	Which Channel is contributing maximum to the sales?
 -	Percentage of Total Orders delivered .
+
+-	Dashboard Interaction <a href="https://github.com/Aniket-xen/Data-Analysis-Dashboard/blob/main/Screenshot%20DashBoard.png">View Dashboard </a>
 ## Process
 -	Verify data for any missing values and anomalies, and sort out the same.
 -	Made sure data is consistent and clean with respect to data type, data format and values used.
